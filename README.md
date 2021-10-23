@@ -5,7 +5,7 @@ Pure CSS and Bootstrap
  
 ## Make sure to star and fork before you clone it
 
-<img src="https://github.com/limatainer/dscatalog/blob/main/catalog_front.png"/>
+<img src="https://github.com/limatainer/ProgressInGlass/blob/master/front.png"/>
 </br>
 
 ## Fique a vontade :) Be my guest
